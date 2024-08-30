@@ -23,3 +23,5 @@ The logistic regression model achieved an accuracy of **80.75%** on the test dat
 ## Source
 - The dataset is provided by [Kaggle](https://www.kaggle.com/c/titanic/data).
 - Machine learning techniques are based on Scikit-learn documentation and online resources.
+
+You can access the project here: (https://colab.research.google.com/drive/1-Wk7zW_PcIKRQ5tGqDJ8oqlQ6raPX1JT)
